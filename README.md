@@ -8,7 +8,7 @@ I don't claim anything particular about the quality of the solutions.
 
 ## Usage
 
-I use `stdin`. Therefore to run a file `3part2.py` on input file `3test.in`, run:
+I use `stdin`. To run a file `3part2.py` on input file `3test.in`, run:
 
 ```
 python3 3part2.py < 3test.in
@@ -23,6 +23,12 @@ files which are usually those from the task description.
 ### 2022
 
 You can see me in [Top 100 of Part 1 on day 10](https://adventofcode.com/2022/leaderboard/day/10)
+
+Day 11: The monkeys with crazily growing numbers.
+
+Day 15: Intersections of balls in the Manhattan metric. I managed to write a fast solution, but I would not like to prove its correctness. 
+
+Days 16 - 25: To be added soon.
 
 ### 2021
 
