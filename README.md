@@ -24,11 +24,15 @@ files which are usually those from the task description.
 
 You can see me in [Top 100 of Part 1 on day 10](https://adventofcode.com/2022/leaderboard/day/10)
 
-Day 11: The monkeys with crazily growing numbers.
+_Day 11:_ The monkeys with crazily growing numbers.
 
-Day 15: Intersections of balls in the Manhattan metric. I managed to write a fast solution, but I would not like to prove its correctness. 
+_Day 15:_ Intersections of balls in the Manhattan metric. I managed to write a fast solution, but I would not like to prove its correctness. 
 
-Days 16 - 25: To be added soon.
+_Day 22:_ Walking on a cube. Crazy to code. Unfortunately, my part 2 works only for my particular input.
+
+_Day 25:_ Base 5 number system, but with digits -2, -1, 0, 1, 2.
+
+The missing days: To be added soon.
 
 ### 2021
 
