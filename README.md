@@ -36,7 +36,7 @@ The missing days: To be added soon.
 
 ### 2021
 
-To be added soon.
+_Day 8:_ Decoding digits in the style of 7 segment display.
 
 ### 2020
 
