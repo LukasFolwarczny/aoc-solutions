@@ -28,11 +28,16 @@ _Day 11:_ The monkeys with crazily growing numbers.
 
 _Day 15:_ Intersections of balls in the Manhattan metric. I managed to write a fast solution, but I would not like to prove its correctness. 
 
+_Day 16_: I am yet to polish and add this day :-)
+
+_Day 17_: Tetris. I am yet to add part 2, which I do not have fully 
+automated at this moment.
+
+_Day 19_: After solving part 1 with a lot of effort, I decided to use a MIP solver.
+
 _Day 22:_ Walking on a cube. Crazy to code. Unfortunately, my part 2 works only for my particular input.
 
 _Day 25:_ Base 5 number system, but with digits -2, -1, 0, 1, 2.
-
-The missing days: To be added soon.
 
 ### 2021
 
