@@ -43,6 +43,8 @@ _Day 25:_ Base 5 number system, but with digits -2, -1, 0, 1, 2.
 
 _Day 8:_ Decoding digits in the style of 7 segment display.
 
+_Day 17:_ I need to think about a faster solution than mine.
+
 ### 2020
 
 To be added soon.
