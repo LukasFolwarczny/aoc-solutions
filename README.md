@@ -8,7 +8,7 @@ I don't claim anything particular about the quality of the solutions.
 
 ## Usage
 
-I use `stdin`. To run a file `3part2.py` on input file `3test.in`, run:
+I use `stdin`. To run a file `03part2.py` on input file `03test.in`, run:
 
 ```
 python3 03part2.py < 03test.in
