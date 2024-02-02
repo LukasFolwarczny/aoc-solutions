@@ -4,6 +4,7 @@ version = "0.1.0"
 description = "My solutions to AoC tasks"
 authors = ["Lukáš Folwarczný <lfolwarczny@gmail.com>"]
 readme = "README.md"
+packages = [ {include = "2022"} ]
 
 [tool.poetry.dependencies]
 python = "^3.12"
