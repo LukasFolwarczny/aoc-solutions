@@ -17,3 +17,6 @@ TODO
 You can see me in [Top 100 of Part 1 on day 10](https://adventofcode.com/2022/leaderboard/day/10)
 
 _Day 11:_ The monkeys with crazily growing numbers.
+
+_Day 15:_ Intersections of balls in the Manhattan metric. I managed to write a
+fast solution, but I would not like to prove its correctness.
