@@ -20,3 +20,6 @@ _Day 11:_ The monkeys with crazily growing numbers.
 
 _Day 15:_ Intersections of balls in the Manhattan metric. I managed to write a
 fast solution, but I would not like to prove its correctness.
+
+_Day 16:_ The solution of part 2 runs for a little over a minute on my actual
+input on my laptop. I don't have a much faster solution.
