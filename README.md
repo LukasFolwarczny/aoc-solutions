@@ -47,3 +47,7 @@ _Day 16:_ The solution of part 2 runs for a little over a minute on my actual
 input on my laptop. I don't have a much faster solution.
 
 _Day 17:_ Tetris simulation. My solution of part 2 is a bit heuristic.
+
+_Day 19:_ This task was perfect for mixed integer programming. However, I am
+currently not able to run the library I used on MacOS and therefore I do not
+include this solution.
