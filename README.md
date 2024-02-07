@@ -8,7 +8,29 @@ I don't claim anything particular about the quality of the solutions. 🙂
 
 ## Usage
 
-TODO
+I use [python poetry](https://python-poetry.org/) for dependency management.
+
+To install the dependencies, run:
+```
+poetry install
+```
+
+The solutions use `stdin`. Usually, part 1 and part 2 of a given task are in
+separate files `part1.py` and `part2.py`, but there are exceptions with both
+parts in `both.py`. As the authors of AoC do not wish the participants to share
+their input files, I only include small test files which are usually those from
+the task description.
+
+To run, for example, the solution to part 2 of the task 2022/03 on the small
+test input, use:
+```
+poetry run python3 2022/03/part2.py < 2022/03/test.in
+```
+
+Test can be run with:
+```
+poetry run pytest
+```
 
 ## Some notes about the AoC years
 
