@@ -47,6 +47,7 @@ YEAR = 2022
         [20, 'part2.py', 'test.in', 'test_part2.out'],
         [21, 'part1.py', 'test.in', 'test_part1.out'],
         [21, 'part2.py', 'test.in', 'test_part2.out'],
+        [22, 'part1.py', 'test.in', 'test_part1.out'],
     ],
 )
 def test_inputs(task, src, in_, out):

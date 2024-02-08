@@ -51,3 +51,6 @@ _Day 17:_ Tetris simulation. My solution of part 2 is a bit heuristic.
 _Day 19:_ This task was perfect for mixed integer programming. However, I am
 currently not able to run the library I used on MacOS and therefore I do not
 include this solution.
+
+_Day 22:_ Walking on a cube. Crazy to code. Unfortunately, my part 2 works only
+for my particular input
