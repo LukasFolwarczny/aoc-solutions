@@ -44,7 +44,7 @@ _Day 15:_ Intersections of balls in the Manhattan metric. I managed to write a
 fast solution, but I would not like to prove its correctness.
 
 _Day 16:_ The solution of part 2 runs for a little over a minute on my actual
-input on my laptop. I don't have a much faster solution.
+input on my laptop, which is my slowest solution of this year.
 
 _Day 17:_ Tetris simulation. My solution of part 2 is a bit heuristic.
 
@@ -53,6 +53,6 @@ currently not able to run the library I used on MacOS and therefore I do not
 include this solution.
 
 _Day 22:_ Walking on a cube. Crazy to code. Unfortunately, my part 2 works only
-for my particular input
+for my particular input.
 
 _Day 25:_ Base 5 number system, but with digits -2, -1, 0, 1, 2.
