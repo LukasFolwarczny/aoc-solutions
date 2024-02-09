@@ -54,3 +54,5 @@ include this solution.
 
 _Day 22:_ Walking on a cube. Crazy to code. Unfortunately, my part 2 works only
 for my particular input
+
+_Day 25:_ Base 5 number system, but with digits -2, -1, 0, 1, 2.
