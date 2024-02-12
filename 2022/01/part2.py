@@ -4,6 +4,6 @@ import sys
 
 import more_itertools
 
-chunks = more_itertools.split_at(sys.stdin, lambda line: line == '\n')
+chunks = more_itertools.split_at(sys.stdin, lambda line: line.isspace())
 sorted_ = sorted(sum(int(i) for i in chunk) for chunk in chunks)
-print(sorted_[-1] + sorted_[-2] + sorted_[-3])
+print(sum(sorted_[-3:]))
